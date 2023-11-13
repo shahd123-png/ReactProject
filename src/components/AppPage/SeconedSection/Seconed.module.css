@@ -1,0 +1,16 @@
+.icons3Details {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem 0;
+    margin-top: 5rem;
+}
+
+.iconAndText {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
